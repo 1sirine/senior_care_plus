@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "368913065791",
+    "project_id": "seniorcareplus",
+    "storage_bucket": "seniorcareplus.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:368913065791:android:829b947c292c5bf90d158a",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_seniorcare"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAq_MimE0nneMtQ_ek24jFYLbTL7zX0sOw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:368913065791:android:9481b263a353f7b40d158a",
+        "android_client_info": {
+          "package_name": "com.example.medicalreminder"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAq_MimE0nneMtQ_ek24jFYLbTL7zX0sOw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
